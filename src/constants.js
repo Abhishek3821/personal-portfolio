@@ -110,7 +110,7 @@ export const projects = [
       "JavaScript",
       "Emailjs"
     ],
-    webapp: "https://csprep.netlify.app/",
+    webapp: "https://personal-portfolio-sigma-livid.vercel.app/",
   },
   {
     id: 2,
