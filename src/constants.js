@@ -94,7 +94,15 @@ export const projects = [
     description:
       "Ace Global Logistic is a professional logistics and freight forwarding company offering comprehensive shipping solutions, including air, sea, and land transportation. Their services cover customs clearance, warehousing, and supply chain management, ensuring efficient and timely delivery for businesses worldwide",
     image: githubdetLogo,
-    tags: ["HTML", "Tailwind CSS", "JavaScript", "React JS", "API","Express","Node.js"],
+    tags: [
+      "HTML",
+      "Tailwind CSS",
+      "JavaScript",
+      "React JS",
+      "API",
+      "Express",
+      "Node.js",
+    ],
     webapp: "https://www.acegloballogistic.com/",
   },
   {
@@ -103,24 +111,17 @@ export const projects = [
     description:
       "A personal portfolio website showcasing my skills, projects, and experience in web development. It highlights my technical expertise, creative work, and passion for building responsive, user-friendly digital solutions.",
     image: csprepLogo,
-    tags: [
-      "React JS",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Emailjs"
-    ],
+    tags: ["React JS", "HTML", "CSS", "JavaScript", "Emailjs"],
     webapp: "https://personal-portfolio-sigma-livid.vercel.app/",
   },
   {
     id: 2,
-    title: "Movie Recommendation App",
+    title: "Calculator",
     description:
-      "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
+      "A calculator is a device or software used to perform mathematical operations like addition, subtraction, multiplication, and division.",
     image: movierecLogo,
-    tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/Movie-Recommendation-App",
-    webapp: "https://movie-recommendation-app-jet.vercel.app/",
+    tags: ["React JS", "HTML", "CSS", "JavaScript"],
+    webapp: "https://calculator-through-reactjs.vercel.app/",
   },
   {
     id: 3,
