@@ -122,7 +122,7 @@ export const projects = [
     id: 3,
     title: "Brainwave ",
     description:
-      "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
+      "Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations,",
     image: npmLogo,
     tags: ["React JS", "Node.js", "NPM", "Validation"],
     
