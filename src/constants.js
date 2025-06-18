@@ -85,9 +85,9 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Ace Global Logistics",
+    title: "E-Commerce ",
     description:
-      "Ace Global Logistic is a professional logistics and freight forwarding company offering comprehensive shipping solutions, including air, sea, and land transportation. Their services cover customs clearance, warehousing, and supply chain management, ensuring efficient and timely delivery for businesses worldwide",
+      "E-Commerce Project focused on creating a user friendly online shopping experience Developed an eCommerce website for seamless shopping, responsive design, and fast performance,Add to Cart ",
     image: githubdetLogo,
     tags: [
       "HTML",
@@ -98,7 +98,7 @@ export const projects = [
       "Express",
       "Node.js",
     ],
-    webapp: "https://www.acegloballogistic.com/",
+    webapp: "https://e-commerce-ivory-rho-43.vercel.app/",
   },
   {
     id: 1,
@@ -120,12 +120,12 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Email Validator NPM Package",
+    title: "Brainwave ",
     description:
       "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
     image: npmLogo,
     tags: ["React JS", "Node.js", "NPM", "Validation"],
-    github: "https://github.com/codingmastr/cmtk-email-validator",
-    webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+    
+    webapp: "https://brainwave-umber-eight.vercel.app/",
   },
 ];
