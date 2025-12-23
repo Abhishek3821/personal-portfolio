@@ -18,7 +18,7 @@ const About = () => {
           </h1>
           {/* Name */}
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
-            Abhishek Singh
+            Abhishek Singh Chauhan
           </h2>
           {/* Skills Heading with Typing Effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
@@ -37,12 +37,12 @@ const About = () => {
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
             I'm a skilled software developer with experience in JavaScript and
-            expertise in frameworks like React And Node.js. I'm a
-            quick learner and collaborate closely with clients to create
-            efficient, scalable, and user-friendly solutions that solve
-            real-world problems. Let's work together to bring your ideas to
-            life!, I specialize in the MERN stack and other modern technologies
-            to create seamless user experiences and efficient solutions.
+            expertise in frameworks like React And Node.js. I'm a quick learner
+            and collaborate closely with clients to create efficient, scalable,
+            and user-friendly solutions that solve real-world problems. Let's
+            work together to bring your ideas to life!, I specialize in the MERN
+            stack and other modern technologies to create seamless user
+            experiences and efficient solutions.
           </p>
           {/* Resume Button */}
           <a
